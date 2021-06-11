@@ -45,3 +45,8 @@ padding: 0;
 .events-descript{
     background-color:blue;
 }
+
+.trees-card{
+    width:55%;
+    height:45%;
+}
