@@ -31,9 +31,6 @@
     position: relative;
 } */
 
-.two-cards{
-    background-color: darkblue;
-}
 
 .main-campus{
 width:1540px;
@@ -41,18 +38,35 @@ height:250px;
 margin: 0;
 padding: 0;
 }
+.flex-container {
+    display: flex;
+    background-color:rgb(56, 56, 192);
+  }
+  .flex-container > div {
+    background-color:none;
+    margin: 10px;
+    padding: 20px;
+    font-size: 15px;
+  }
 
-.events-descript{
-    background-color:blue;
-}
 
-.trees-card{
-    width:55%;
-    height:45%;
-}
+
+ .trees-card{
+    width:45%;
+    height:35%;
+ } 
 
 .event-title-card{
     background-color: white;
     width:45%; 
-    height:35%;
+    height:35%; 
 }
+.button-title{
+    float:right;
+    background-color: white;
+
+}
+/* .button-container{
+    float:right;
+    background-color: white;
+} */
