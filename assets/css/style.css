@@ -31,7 +31,9 @@
     position: relative;
 } */
 
-
+.nav-link{
+    color:darkblue;
+}
 .main-campus{
 width:1540px;
 height:250px;
