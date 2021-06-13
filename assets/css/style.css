@@ -20,6 +20,13 @@
     float:right;
 }
 
+/* .events-container{
+    background-image:url("../img/main-campus.jpg");
+    width:1000%;
+    height:1000%;
+    margin:auto;
+} */
+
 .main-campus{
 width:1540px;
 height:250px;
@@ -27,20 +34,7 @@ margin: 0;
 padding: 0;
 }
 
-.cards-container{
-    background-color: darkblue;
-}
-/* 
-.event-title{
-    background-color: white;
-} */
 
-.button-title{
-    float:right;
-    background-color: white;
-
+.evt{
+    border-color:green;
 }
-/* .button-container{
-    float:right;
-    background-color: white;
-} */
