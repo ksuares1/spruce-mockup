@@ -26,29 +26,15 @@ height:250px;
 margin: 0;
 padding: 0;
 }
-.flex-container {
-    display: flex;
-    background-color:rgb(56, 56, 192);
-  }
-  .flex-container > div {
-    background-color:none;
-    margin: 10px;
-    padding: 20px;
-    font-size: 15px;
-  }
 
-
-
- .trees-card{
-    width:45%;
-    height:35%;
- } 
-
-.event-title-card{
-    background-color: white;
-    width:45%; 
-    height:35%; 
+.cards-container{
+    background-color: darkblue;
 }
+/* 
+.event-title{
+    background-color: white;
+} */
+
 .button-title{
     float:right;
     background-color: white;
