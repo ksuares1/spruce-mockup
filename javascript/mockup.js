@@ -4,3 +4,4 @@
 //     var currentMonthName = MONTHS[new Date().getMonth()];
 //     return slides.indexOf(currentMonthName)
 // }
+

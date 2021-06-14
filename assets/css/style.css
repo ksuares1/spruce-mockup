@@ -20,23 +20,26 @@
     float:right;
 }
 
-/* .events-container{
-    background-image:url("../img/main-campus.jpg");
-    width:1000%;
-    height:1000%;
-    margin:auto;
-} */
 
 .main-campus{
 width:1540px;
 height:250px;
 margin: 0;
 padding: 0;
-}
+} 
+
+
 
 
 .evt{
     border-color:green;
+    width:65%;
+    height:85%;
+}
+
+.trees{
+  width:60%;
+  height:50%;
 }
 
 .event-bg{
@@ -70,4 +73,11 @@ padding: 0;
         background: #4CAF50;
         cursor: pointer;
       }
+      
+      .swiper-container {
+        width: 600px;
+        height: 300px;
+      }
+
+    
       
