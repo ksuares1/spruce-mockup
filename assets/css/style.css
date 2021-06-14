@@ -20,6 +20,9 @@
     border-radius: 50%;
     color: #00597c;
 }
+.fas{
+  color:#4CAF50;
+}
 
 .icons{
     float:right;
@@ -101,4 +104,6 @@ border-color:green;
               }
 
     
-      
+      .newsletter{
+        background-image: url("../img/nj-landscape.jpg");
+      }
