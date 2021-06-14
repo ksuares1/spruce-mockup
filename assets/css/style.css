@@ -60,7 +60,8 @@ border-color:green;
 
 .event-bg{
     background-color:#00597c;
-    justify-content: center;
+    display: flex;
+    justify-content: space-between;
     }
 
     .slidecontainer {
