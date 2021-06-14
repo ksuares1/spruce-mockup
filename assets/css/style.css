@@ -29,7 +29,13 @@ padding: 0;
 } 
 
 
-
+.event-text{
+  position: absolute;
+  top:200px;
+  left:0;
+  width: 100%;
+  color:white;
+}
 
 .evt{
     border-color:green;
