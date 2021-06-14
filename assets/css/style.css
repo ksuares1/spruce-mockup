@@ -57,6 +57,7 @@ border-color:green;
 
 .event-bg{
     background-color:#00597c;
+    justify-content: center;
     }
 
     .slidecontainer {
@@ -93,7 +94,7 @@ border-color:green;
       }
 
       .nj{
-        width:100%;
+        width:1500;
         height:5%;
         margin: 0;
         padding: 0;
