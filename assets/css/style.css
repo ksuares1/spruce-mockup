@@ -98,13 +98,21 @@ border-color:green;
       }
 
       .nj{
-        width:1500;
-        height:5%;
+        width:50%;
+        height:50%;
         margin: 0;
         padding: 0;
               }
+      
+        .footer{
+          background-color: #00597c;
+        }
+        .contact{
+          color: white;
+          text-align: justify;
+        }
 
-    
-      .newsletter{
-        background-image: url("../img/nj-landscape.jpg");
-      }
+        .contact-line{
+          text-decoration: overline;
+          color:#4CAF50;
+        }
